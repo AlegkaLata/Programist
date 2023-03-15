@@ -26,3 +26,5 @@
 * Команда для синхронізації
 
 > git pull
+
+![alt](image.jpg "image")
